@@ -10,6 +10,7 @@ This document explains how to migrate your repositories, and answers some common
 
 > Hi there! If you'd like to become a beta tester, please sign in at [travis-ci.org] and in [your account page](https://travis-ci.org/account/repositories), sign up to migrate your Open Source repositories.
 
+> Starting June 2021 travis-ci.org is disabled and therefore no longer supported. Please use travis-ci.com.  
 
 ## What information will be transferred to travis-ci.com?
 
@@ -74,7 +75,7 @@ No. Unless there was something very customised in your `.travis.yml`, no changes
 
 If you are already using GitHub Apps for your account in travis-ci.com, you need to access your installation settings and grant access to the repositories you'd like to migrate. Otherwise:
 
-1. Log in to [https://travis-ci.com] and access your profile (or your organization's) at [https://travis-ci.com/profile](https://travis-ci.com/profile). For any doubts on the Travis CI GitHub Authorized OAuth App access rights message, please read more details [below](/user/migrate/open-source-repository-migration#travis-ci-github-oauth-app-access-rights).
+1. Log in to [travis-ci.com] and access your profile (or your organization's) at [https://travis-ci.com/profile](https://travis-ci.com/profile). For any doubts on the Travis CI GitHub Authorized OAuth App access rights message, please read more details [below](/user/migrate/open-source-repository-migration#travis-ci-github-oauth-app-access-rights).
 
 2. If you aren't using the new GitHub Apps integration already, activate it for your account
   ![Activate GitHub Apps](/user/images/oss-migration/gapps-activate.png)
